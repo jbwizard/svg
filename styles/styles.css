@@ -1,0 +1,20 @@
+.container_inline{
+    margin: auto;
+    padding-top: 40px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_external{
+    margin:auto;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
